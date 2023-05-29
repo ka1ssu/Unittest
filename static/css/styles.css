@@ -1,0 +1,41 @@
+.background {
+    background-color: #52226b;
+    width:1200px;
+    height:500px;
+}
+.nameblock {
+    background-color: #9c085c;
+    width: 300px;
+    height: 175px;
+    margin-left: 450px;
+    margin-top: 250px;
+    border-radius: 90px;
+    border: 2px solid black;
+}
+.nameblocktext {
+    margin-left: 35px;
+    margin-top: 45px;
+    font-family:'Comic Sans MS';
+    font-size:48px;
+}
+.name {
+    margin-left: 440px;
+    border-radius: 10px;
+    font-size:26px;
+}
+.question {
+    font-family: 'Comic Sans MS';
+    margin-left: 450px;
+    margin-top: 25px;
+    margin-bottom: 5px;
+    font-size:32px;
+}
+.buttonstyle {
+    font-family: 'Comic Sans MS';
+    margin-left: 480px;
+    margin-top: 10px;
+    width: 250px;
+    border-radius: 10px;
+    height: 40px;
+    font-size:20px;
+}
